@@ -1,4 +1,4 @@
-use <../finger_joint_box/finger_joint_box.scad>
+use <./finger_joint_box.scad>
 
 /* [Card Dimensions] */
 // Card Width
